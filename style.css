@@ -1,0 +1,46 @@
+h1
+     {
+       /* margin-left: 30px; */
+       display: flex;
+       justify-content: center;
+     }
+      
+      body
+      {
+        background-color: #00FFFF;
+      }
+
+      h2
+      {
+        display:flex;
+        justify-content:center;
+        color: #FF6363;
+      }
+
+      h3
+      {
+         display:flex;
+         justify-content:center;
+         color:rgba(240, 16, 165, 0.897);
+      }
+
+      .country img
+      {
+        border-radius: 10px;
+        border:2px solid blue;
+      }
+    
+      h5
+      {
+        display:flex;
+        justify-content:center;
+      }
+     
+  
+    
+    
+
+      
+     
+
+
